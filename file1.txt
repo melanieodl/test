@@ -1,2 +1,4 @@
 This is the original text. We want to explain how merge conflict happens. Follow the instructions and steps correctly.
-But we also want to add text here in master's branch file1.txt
+
+But we add text here in master's branch file1.txt and  we also want to add some text here in the branch 'test'.
+
